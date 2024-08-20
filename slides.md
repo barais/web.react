@@ -7,10 +7,10 @@ background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
 title: ReactJS
 info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
+  ## ReactJS course @Univ Rennes
+  Master @istic
 
-  Learn more at [Sli.dev](https://sli.dev)
+  Learn more at [istic](https://istic.univ-rennes.fr/)
 # apply unocss classes to the current slide
 class: text-center
 # https://sli.dev/features/drawing
